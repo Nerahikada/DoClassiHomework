@@ -1,0 +1,11 @@
+{
+    "repositories": {
+        "nerahikada/classi": {
+            "type": "vcs",
+            "url": "https://github.com/Nerahikada/Classi"
+        }
+    },
+    "require": {
+        "nerahikada/classi": "dev-master"
+    }
+}
